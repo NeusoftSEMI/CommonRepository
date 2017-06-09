@@ -145,19 +145,14 @@
       <th width="200">预览</th>
     </tr>
   <tr>
-    <td>[GcsSloop](http://www.gcssloop.com)</td>
-    <td><a href="http://www.gcssloop.com" target="_blank">GcsSloop</a></td>
+    <td>[Google](http://www.google.com)</td>
+    <td><a href="http://www.google.com" target="_blank">GcsSloop</a></td>
   </tr>
   <tr class="alternate">
-    <td>![GcsSloop Blog](http://www.gcssloop.com/assets/siteinfo/friends/gcssloop.jpg)</td>
-    <td><img src="http://www.gcssloop.com/assets/siteinfo/friends/gcssloop.jpg" alt="GcsSloop Blog" /></td>
+    <td>![Google img](.....)</td>
+    <td><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497577003&di=e7760eaf5fed16346d92ee15c738c1d9&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.16fafa.cn%2Ffile%2Fupload%2F201512%2F15%2F11-43-45-65-1.jpg" alt="Google img" /></td>
   </tr>
 </table>
-
-
-
-知道了上面这些内容就已经算是入门了，可以用 Markdown 进行快乐的写作，如果想了解更多语法相关内容，请看下一篇 [Markdown实用技巧－基础语法][markdown-grammar]
-
 
 ## 参考资料
 
