@@ -69,7 +69,7 @@
 
 ## 快速入门
 
-本文是为了帮助还不了解 Markdown 的魔法师有一个简单的认知，所以快速入门只说最基本的一些内容。
+本文是为了帮助还不了解 Markdown 的新司机有一个简单的认知，所以快速入门只说最基本的一些内容。
 
 
 
@@ -163,12 +163,4 @@
 
 [Markdown－基础语法](http://www.markdown.cn/)
 
-
-## About Me
-
-### 作者微博: <a href="http://weibo.com/GcsSloop" target="_blank">@GcsSloop</a>
-
-<a href="http://www.gcssloop.com/info/about" target="_blank"><img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width="300" style="display:inline;" /></a>
-
-[markdown-grammar]: /markdown/markdown-grammar	"Markdown实用技巧－语法"
 
