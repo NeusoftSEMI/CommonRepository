@@ -146,7 +146,7 @@
     </tr>
   <tr>
     <td>[Google](http://www.google.com)</td>
-    <td><a href="http://www.google.com" target="_blank">GcsSloop</a></td>
+    <td><a href="http://www.google.com" target="_blank">Google</a></td>
   </tr>
   <tr class="alternate">
     <td>![Google img](.....)</td>
