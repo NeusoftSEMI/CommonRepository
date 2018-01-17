@@ -3,6 +3,7 @@
 下面这条未完成
 #### 2017/10/24 每天开始写commit，颓废了两个月，给自己制定任务，2017年剩下的两个月学习 RxJava2 以及Dagger2 并且掌握自定义View.
 ##以下是第三方库的依赖以及库的地址，一个月更新一次，仅仅是我使用过的，欢迎补充。
+* ### 视频播放
 #### implementation 'cn.jzvd:jiaozivideoplayer:6.2.4'  [GitHub](https://github.com/lipangit/JiaoZiVideoPlayer)
 #### implementation 'me.dm7.barcodescanner:zxing:1.9.8' [GitHub](https://github.com/dm77/barcodescanner)
 #### implementation 'com.sunfusheng:marqueeview:1.3.3'  [GitHub](https://github.com/sfsheng0322/MarqueeView)
